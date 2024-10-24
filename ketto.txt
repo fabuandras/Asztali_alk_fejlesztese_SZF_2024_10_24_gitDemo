@@ -1,1 +1,1 @@
-az ketto.txt első sora
+az ketto.txt első sora, mert én azt mondom
