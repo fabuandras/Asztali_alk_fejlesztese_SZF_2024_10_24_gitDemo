@@ -1,0 +1,1 @@
+az ketto.txt első sora
